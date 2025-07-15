@@ -1,8 +1,33 @@
 {
+  "name": "url-shortener-affordmed",
+  "version": "1.0.0",
+  "private": true,
   "dependencies": {
-    "@types/react": "^19.1.8",
-    "@types/react-dom": "^19.1.6",
-    "react": "^19.1.0",
-    "react-dom": "^19.1.0"
-  }
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@mui/material": "^5.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^0.0.0",
+    "typescript": "^4.4.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "main": "auth.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prajjwalkirola/2261425.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prajjwalkirola/2261425/issues"
+  },
+  "homepage": "https://github.com/Prajjwalkirola/2261425#readme",
+  "description": ""
 }
